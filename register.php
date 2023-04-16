@@ -106,7 +106,7 @@ include "layout/header.php";
 						</div>
 						<div class="card-footer py-3 border-0">
 							<div class="text-center">
-								Vous êtes déjà inscris ? <a href="index.html" class="text-dark">Se connecter</a>
+								Vous êtes déjà inscris ? <a href="login.php" class="text-dark">Se connecter</a>
 							</div>
 						</div>
 					</div>
